@@ -25,7 +25,7 @@ module.exports = {
   
     rules: {
       'linebreak-style': ['error', 'unix'],
-      quotes: ['error', 'double'],
+      quotes: ['error', 'single'],
       semi: ['error', 'always'],
       'no-dupe-keys': 'error',
       'global-require': 'off',
